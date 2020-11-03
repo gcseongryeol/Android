@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="study">
+        <item>java</item>
+        <item>android</item>
+        <item>jsp</item>
+
+
+    </string-array>
+
+    <string-array name="friend">
+        <item>hong</item>
+        <item>kim</item>
+        <item>lee</item>
+        <item>park</item>
+        <item>jo</item>
+        <item>jeong</item>
+        <item>oh</item>
+        <item>moon</item>
+        <item>ahn</item>
+        <item>sin</item>
+
+    </string-array>
+
+
+
+
+</resources>
